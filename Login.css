@@ -1,3 +1,17 @@
+.login-form{
+    text-align: center;
+    margin: auto;
+}
+
+.login-form input{
+    margin: 10px;
+}
+
 .login-footer{
+    position: fixed;
+    left: 50vw;
+    transform: translate(-50%);
+    bottom: 0;
+    text-align: center;
     margin: auto;
 }
